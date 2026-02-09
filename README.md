@@ -177,8 +177,8 @@ ImageEncryption/
 `input.png`  
 ![](media/input.png)
 
-`encode.png`  
+`encrypt.png`  
 ![](media/encrypt.png)
 
-`decode.png`  
+`decrypt.png`  
 ![](media/decrypt.png)
